@@ -17,7 +17,7 @@ saved records, and monitor application statuses.
 - Store records persistently in a JSON file.
 - Validate required company and job title fields.
 
-## echnologies Used
+## Technologies Used
 
 - Python
 - JSON
